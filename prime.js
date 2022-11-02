@@ -12,6 +12,12 @@ for(let i=1;i<=num;i++)
 if(bag==2)
 {
 	console.log("Yes");
-}else{
-console.log("No");
+}
+else
+{
+  console.log("No");
 }	
+
+	console.log(No);
+}
+

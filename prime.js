@@ -11,4 +11,5 @@ for(let i=0;i<=num;i++)
 }
 if(bag==2)
 {
-	console.log(No);	
+	console.log(No);
+}

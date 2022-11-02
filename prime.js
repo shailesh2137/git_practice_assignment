@@ -18,6 +18,4 @@ else
   console.log("No");
 }	
 
-	console.log(No);
-}
 

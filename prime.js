@@ -2,14 +2,22 @@
 
 let num=13;
 let bag="";
-for(let i=0;i<=num;i++)
+for(let i=1;i<=num;i++)
 {
-	if(num%1==0)
+	if(num%i==0)
 	{
-		bag++
+		bag++;
 	}
 }
 if(bag==2)
 {
+	console.log("Yes");
+}
+else
+{
+  console.log("No");
+}	
+
 	console.log(No);
 }
+

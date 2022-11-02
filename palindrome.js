@@ -1,11 +1,13 @@
 //Program To check Palindrome.
 
 let str="Naman";
-for( i=0 i<=str.length;i++)
+let bag="No";
+
+for( let i=0;i<=str.length;i++)
 {
-	if(str[i]-1==str[j])
+	if(str[i]-1==str[i])
 	{
-		s="No";
+		bag="Yes";
 	}
 }
 console.log(bag);
